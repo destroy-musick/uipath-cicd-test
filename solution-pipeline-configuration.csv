@@ -1,2 +1,2 @@
 ﻿PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
-Processes/New folder/Demo CICD Process/project.json,Demo.CICD.Process,Shared/CICD Test,Demo.CICD.Process,FALSE
+Processes/New folder/Demo CICD Process/project.json,Demo.CICD.Process,Shared/CICD Test,Demo.CICD.Process,false
