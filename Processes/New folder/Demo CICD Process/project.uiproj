@@ -1,0 +1,6 @@
+{
+  "Name": "Demo CICD Process",
+  "ProjectType": "Process",
+  "Description": "Simple process to demo CICD",
+  "MainFile": "Main.xaml"
+}
